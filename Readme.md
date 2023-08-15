@@ -2,7 +2,7 @@
 
 ![Python logo](assets/python-logo.png)
 
-Estou trabalhando com Python há cerca de um ano e quero começar um estudo mais focado para compreender a linguagem em profundidade, para isso escolhi o livro `Python Fluente` do ilustre `Luciano Ramalho` e vou documentar aqui um resumo do que estou aprendendo, assim como alguns exercícios para fixar melhor os conhecimentos. É importante dizer que eu já trabalho com tecnologia há mais de dez anos, então alguns conceitos eu vou simplificar nos meus resumos ou apenas pular por já ser algo natural. Em contra-partida com certeza terão conceitos básicos que eu vou achar incríveis e vou escrever como se nunca tivesse visto (e talvez nem tenha mesmo).
+Estou trabalhando com Python há cerca de um ano e quero começar um estudo mais focado para compreender a linguagem em profundidade, para isso escolhi o livro `Python Fluente` do ilustre `Luciano Ramalho` e vou documentar aqui um pouco da jornada e como estou aprendendo, assim como alguns exercícios para fixar melhor os conhecimentos. É importante dizer que eu já trabalho com tecnologia há mais de dez anos, então alguns conceitos eu vou simplificar nos meus resumos ou apenas pular por já ser algo natural. Em contra-partida com certeza terão conceitos básicos que eu vou achar incríveis e vou escrever como se nunca tivesse visto (e talvez nem tenha mesmo).
 
 Eu já fiz algo parecido com isso quando eu estava estudando `Rust`([Aprendendo Rust](https://github.com/sr2ds/learning-rust)), porém eu nunca usei `Rust` profissionalmente então foi apenas "acadêmico", no caso atual eu tenho trabalhado com Python no dia-a-dia, então acredito que será ainda mais divertido.
 
