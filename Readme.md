@@ -17,3 +17,4 @@ Pretendo me dedicar em média duas horas semanais nessa jornada, em vista de que
 Então, boraa!
 
 [Capítulo 1](/01/Readme.md)
+[Capítulo 2](/02/Readme.md)
